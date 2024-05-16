@@ -3,16 +3,16 @@
 
 /// <summary>
 /// SAS Datenfelder
-/// Arbeitsauftrag 1 - Aufgabe 1
+/// Arbeitsauftrag 1 - Aufgabe 3.1
 /// Notenliste
 /// </summary>
 
 
-Aufgabe_1.Aufgabe1();
+Aufgabe_31.Aufgabe31();
 
-public static class Aufgabe_1
+public static class Aufgabe_31
 {
-    public static void Aufgabe1()
+    public static void Aufgabe31()
     {
         // Deklarieren und Initialisieren einer Variablen zum Zählen der Anzahl der Durchläufe
         int counter = 0;

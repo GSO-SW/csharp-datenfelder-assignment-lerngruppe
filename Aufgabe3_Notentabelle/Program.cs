@@ -8,11 +8,11 @@
 /// </summary>
 
 
-Aufgabe_3.Aufgabe3();
+Aufgabe_33.Aufgabe33();
 
-public static class Aufgabe_3
+public static class Aufgabe_33
 {
-    public static void Aufgabe3()
+    public static void Aufgabe33()
     {
         // Deklarieren und Initialisieren einer Variablen zum Zählen der Anzahl der Durchläufe
         int counter = 0;
