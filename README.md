@@ -5,35 +5,35 @@
 [Lernsituation](./Credentials/Lernsituation.md)
 
 # Arbeitsauftrag
-### Aufgabe 1: Recherche 
-
-Recherchieren Sie eine geeignete Möglichkeit um das Problem von Darius zu lösen. :bust_in_silhouette:**Einzelarbeit**  | :clock130: **5 min**
-
-> :information_source: **Hinweis**:exclamation:  
-> Nutzen Sie eine der Informationsquellen  
-> - [Informationsblatt zu Datenfeldern](https://github.com/GSO-SW/public_content_gso/blob/e52e340b1e9dbc5c8f01051c4f264da611f1fd7f/EducationMaterials/Csharp/SAS_Arrays_Info.pdf)
-> - [Internetquelle](https://www.csharptutorial.net/csharp-tutorial/csharp-array/)
-> - [ChatGPT3](./AddFiles/Informationsmaterial)(Hierfür müsst ihr bei OpenAi registriert sein)
-> - [Online-Compiler](https://www.programiz.com/csharp-programming/online-compiler/)(Falls Visual Studio nicht funtioniert)
-
- 
 ---
-  
-### Aufgabe 2: Austauschen
-Tauschen Sie sich mit ihrem Sitznachbarn aus und Notieren Sie ihren Lösungsansatz. :busts_in_silhouette:**Partnerarbeit**  | :clock130: **3 min**   
-Machen Sie sich notizen indem sie das ReadMe bearbeiten und anschließend committen.
+
+### Aufgabe 1: Lösungsmethode verschriftlichen
+
+Erstellen Sie für Ihre Lösungsmethode ein Plakat das die Syntax und die Anwendung verdeutlicht. :busts_in_silhouette:**Gruppenarbeit**  | :clock130: **30 min**
+
+Folgendes sollte Ihr Plakat enthalten:
++ Syntax
++ Beschreibung (falls nötig)
++ Konkretes Beispiel
 
 
-```
---------Notizen--------
+> :information_source: **Hinweise**:exclamation:
+> + Planen Sie Position und Größe einzelner Inhalte zunächst auf einem DIN A4 – Blatt.
+> + Nutzen Sie Farbakzente um unterschiedliche Aspekte hervorzuheben.
+> 
 
+---
 
+### Aufgabe 2: Präsentation der Plakate
 
+Teilen Sie einzelne Bereiche des Plakats in Ihrer Gruppe auf und stellen Sie diese der Klasse vor. :busts_in_silhouette:**Gruppenarbeit**  | :clock130: **10 min**
 
+> :information_source: **Hinweise**:exclamation:
+> + Zu jedem Plakat gibt die Klasse Feedback zu den Aspekten **Verständlichkeit**, **Gestaltung**, **Inhaltliche Vollständigkeit**.
+> + Machen Sie sich Notizen wenn die anderen gruppen Präsentieren.
+> + Die beiden Plakate mit den meisten Stimmen werden in der Klasse aufgehangen. 
 
-
------------------------
-```
+---
 ### Aufgabe 3: Programm anpassen
 
 #### Aufgabe 3.1 Notenliste 
